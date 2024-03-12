@@ -10,5 +10,4 @@ https://kreativnatvorba.org - digitálne produkty (mobilné aplikácie, pdf, rec
 https://missio-online.sk - katolícka misijná činnosť
 https://cardofnameday.wordpress.com - meninové pohľadnice
 
-Info
-https://creativesuzi33.github.io/info.html
+Info: webapps@techie.com
