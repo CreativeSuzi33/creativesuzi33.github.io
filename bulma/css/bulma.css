@@ -263,7 +263,9 @@ h6 {
   padding: 0;
 }
 
-h1,
+h1 {
+  font-size: larger;
+}
 h2,
 h3,
 h4,
@@ -292,7 +294,11 @@ html {
   box-sizing: inherit;
 }
 
-img,
+img{
+  width: 200px;
+  height: 200px;
+}
+
 video {
   height: auto;
   max-width: 100%;
