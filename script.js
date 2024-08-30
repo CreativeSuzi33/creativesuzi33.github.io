@@ -1,0 +1,1 @@
+alert("I can collect your personal data from your email and messages, if you contact me. If you do not wish to collect your personal data you express your disagreement by email.  ")
