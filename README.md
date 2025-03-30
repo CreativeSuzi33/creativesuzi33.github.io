@@ -7,5 +7,4 @@ https://creativesuzi33.github.io
 https://suzette.sk/digitalne-produkty.html - digitálne produkty (mobilné aplikácie, pdf, recenzie)
 https://missio.suzette.sk - katolícka misijná činnosť
 https://cardofnameday.wordpress.com - meninové pohľadnice
-
-Info: webapps@techie.com
+https://bio.link/creativesuzi33
