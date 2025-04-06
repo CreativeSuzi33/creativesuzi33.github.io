@@ -1,58 +1,166 @@
 html {
     background-color: #ffffff;
-    font-family:'Times New Roman', Times, serif
-    margin: 150;
-    padding: 150;
+    font-family:'Times New Roman', Times, serif;
     color: #003f63;
 }
 
-
-#header img {
-    display: block;
-    width: 80px;
-    height: 80px;
-    margin: auto;
+body {
+    font-size: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 1px;
 }
 
-#header p {
-    font-size: 25pt;
-    color: #1c5269;
-    padding-top: 5px;
-    margin: 0;
-    font-weight: bold;
-    text-align: center;
-}
-
-.section {
+.header {
     background-color: #00ffec;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 10px;
-
-#footer {
-    background-color: #e6e95e;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 10px;
-}
-    
-    
-#p {
     font-size: 20pt;
-    font-color: "#003f63";
-}
-
-#header td {
-    font-size: 20pt;
-    color: ##00ffec;
-    padding-top: 5px;
-    margin: 0;
+    color: #1c5269;
+    padding: 10px;
+    margin: 0px;
     font-weight: bold;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: #00ffec;
+    font-size: 13pt;
+    color: #1c5269;
+    padding: 10px;
+    margin: 0px;
+    font-weight: ;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.logo {
+    width:30px;
+    height:30px;
+}
+
+p.stred {
     text-align: center;
 }
 
-#img {
-    border: 2px;
-    border-color: bisque;
-    border-top: #00ffec;
+p {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.image {
+    width:90%;
+}
+
+button.duck {
+    color:orange;
+    background-color:transparent;
+    border: orange 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.google {
+    color: lightskyblue;
+    background-color:transparent;
+    border: lightskyblue 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.wikipedia {
+    color: grey;
+    background-color:transparent;
+    border: grey 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.googletranslate {
+    color: lightskyblue;
+    background-color:transparent;
+    border: lightskyblue 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.lingeatranslate {
+    color: black;
+    background-color:transparent;
+    border: black 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.facebook {
+    color: blue;
+    background-color:transparent;
+    border: blue 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.gmail {
+    color: lightskyblue;
+    background-color:transparent;
+    border: lightskyblue 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.linkedin {
+    color: darkblue;
+    background-color:transparent;
+    border: darkblue 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+button.youtube {
+    color: red;
+    background-color:transparent;
+    border: red 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+.tlacitko {
+    background-color: darkslategrey;
+    color: white;
+    border: darkblue 2px solid;
+    font-size: 16pt;
+    padding: 5px;
+    margin: 2px;
+}
+
+.h {
+    text-align:center;
+}
+
+.container {
+    float:inline-start
+}
+
+.containers {
+    float:inline-start;
+    align: center;
+    padding: 3px;
+    margin: 1px;
+}
+
+.webversion {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1px;
+    margin-bottom: 1px;
 }
