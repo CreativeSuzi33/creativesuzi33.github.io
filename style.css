@@ -19,7 +19,7 @@ body {
     padding: 10px;
     margin: 0px;
     font-weight: bold;
-    line-height: 30px;
+    line-height: 10px;
     text-align: center;
     border-radius: 10px;
 }
@@ -40,6 +40,14 @@ body {
     height:30px;
 }
 
+.h {
+    text-align: center;
+}
+
+.article {
+    margin: 1rem;
+}
+
 p.stred {
     text-align: center;
 }
@@ -53,86 +61,11 @@ p {
     width:90%;
 }
 
-button.duck {
-    color:orange;
-    background-color:transparent;
-    border: orange 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
+.buttonmenu {
+    color:#003f63;
+    background-color: transparent;
 }
 
-button.google {
-    color: lightskyblue;
-    background-color:transparent;
-    border: lightskyblue 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
-
-button.wikipedia {
-    color: grey;
-    background-color:transparent;
-    border: grey 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
-
-button.googletranslate {
-    color: lightskyblue;
-    background-color:transparent;
-    border: lightskyblue 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
-
-button.lingeatranslate {
-    color: black;
-    background-color:transparent;
-    border: black 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
-
-button.facebook {
-    color: blue;
-    background-color:transparent;
-    border: blue 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
-
-button.gmail {
-    color: lightskyblue;
-    background-color:transparent;
-    border: lightskyblue 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
-
-button.linkedin {
-    color: darkblue;
-    background-color:transparent;
-    border: darkblue 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
-
-button.youtube {
-    color: red;
-    background-color:transparent;
-    border: red 2px solid;
-    font-size: 16pt;
-    padding: 5px;
-    margin: 2px;
-}
 
 .tlacitko {
     background-color: darkslategrey;
@@ -143,24 +76,7 @@ button.youtube {
     margin: 2px;
 }
 
-.h {
-    text-align:center;
-}
 
-.container {
-    float:inline-start
-}
-
-.containers {
-    float:inline-start;
-    align: center;
-    padding: 3px;
-    margin: 1px;
-}
-
-.webversion {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 1px;
-    margin-bottom: 1px;
+.right {
+    text-align: right;
 }
