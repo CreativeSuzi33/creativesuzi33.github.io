@@ -1,17 +1,5 @@
-# EN: Files for website https://creativesuzi33.github.io
+# https://creativesuzi33.github.io
 
-This website https://creativesuzi33.github.io includes my Curriculum vitae, Android application Theoria and my offer to making digital products. Theoria is for developers or designers or people who would like to learn new things in area of information technology.
+My website https://creativesuzi33.github.io contains blog with few articles about information technology, my projects and the Android applications for free download. You can find url address to my Books in Apple Store, YouTube Channel and my offer here too. You can contact me by an email or a form. 
 
-More of my creation is here: https://bio.link/creativesuzi33
-
-Support: contact me by email or social
-
-
-# SK: Súbory k webovej stránke https://creativesuzi33.github.io
-Na tejto stránke nájdete môj krátky životopis (cv), mobilnú aplikáciu Theoria pre OS Android. Je určená pre developerov, dizajnérov a ľudí, ktorí sa chcú naučiť nové veci z oblasti informačných technológií.
-
-Mobilná aplikácia sa nachádza tu: https://github.com/CreativeSuzi33/Theoria
-
-Viac z mojej tvorby nájdete tu: https://bio.link/creativesuzi33
-
-Podpora: https://buymeacoffee.com/creativesuzi33
+Have a good day with my website.
